@@ -1,1 +1,1 @@
-# Python_GUI_Basic
+GUI Practice
