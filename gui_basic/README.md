@@ -1,1 +1,1 @@
-Basic GUI programs such as menu, calculator, and notepad.
+Python GUI basic functionalities
